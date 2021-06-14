@@ -8,8 +8,19 @@
     "dev": "npm run serve"
   },
   "dependencies": {
+    "art-template": "^4.13.2",
+    "axios": "^0.21.1",
+    "better-scroll": "^2.3.1",
     "core-js": "^3.6.5",
+    "css-loader": "^5.2.6",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "fastclick": "^1.0.6",
+    "normalize.css": "^8.0.1",
+    "postcss-px-to-viewport": "^1.1.1",
+    "style-loader": "^2.0.0",
     "vue": "^3.0.0",
+    "vue-lazyload": "^1.3.3",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
   },
